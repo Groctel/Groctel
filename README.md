@@ -2,8 +2,8 @@
 
 ### 👋 A bit about myself
 
-I'm a computer engineering student in the [University of Granada](https://www.ugr.es/) who likes to learn new things in his spare time and also create free software for everyone to use.
-I like learning new things (as in anything) and writing small programs for fun!
+I'm a computer engineering student in the [University of Granada](https://www.ugr.es/) who likes learning new things in his spare time and also create free software for everyone to use.
+I like learning writing small programs for fun and helping others with their programming conundrums!
 
 ### 💾 Languages I know and use
 
@@ -15,6 +15,6 @@ I like learning new things (as in anything) and writing small programs for fun!
 ### 🚀 Technologies I like
 
 [<img align="left" alt="Linux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"/>](https://en.wikipedia.org/wiki/Linux)
-[<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png"/>](https://en.wikipedia.org/wiki/Vim_(text_editor))
+[<img align="left" alt="Vim" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png"/>](https://en.wikipedia.org/wiki/Vim_(text_editor))
 [<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"/>](https://en.wikipedia.org/wiki/Git)
-[<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
+[<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
