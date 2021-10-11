@@ -2,7 +2,7 @@
 
 ### 👋 A bit about myself
 
-I'm a computer engineering student in the [University of Granada](https://www.ugr.es/) who likes learning new things in his spare time and also create free software for everyone to use.
+I'm a computer sciences student in the [University of Granada](https://www.ugr.es/) who likes learning new things in his spare time and also create free software for everyone to use.
 I like learning writing small programs for fun and helping others with their programming conundrums!
 
 ### 💾 Languages I know and use
